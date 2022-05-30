@@ -1,0 +1,93 @@
+[
+    {
+        "name": "Battery",
+        "price": 100,
+        "description": "The battery in a car is a rechargeable. It supplies power (electric energy) to the car. Normally this battery is used to help provide power to start the car and then it is used only when extra power is needed.",
+        "stock": "100",
+        "img": "https://i.ibb.co/mbzzGLd/cars-tire.jpg"
+    },
+    {
+        "name": "Brakes",
+        "price": 100,
+        "description": "The battery in a car is a rechargeable. It supplies power (electric energy) to the car. Normally this battery is used to help provide power to start the car and then it is used only when extra power is needed.",
+        "stock": "100",
+        "img": "https://i.ibb.co/f8WzbfB/cars-jack.jpg"
+    },
+    {
+        "name": "Axle",
+        "price": 100,
+        "description": "The battery in a car is a rechargeable. It supplies power (electric energy) to the car. Normally this battery is used to help provide power to start the car and then it is used only when extra power is needed.",
+        "stock": 100,
+        "img": "https://i.ibb.co/mbzzGLd/cars-tire.jpg"
+    },
+    {
+        "name": "Fuel Injector",
+        "price": 100,
+        "description": "The battery in a car is a rechargeable. It supplies power (electric energy) to the car. Normally this battery is used to help provide power to start the car and then it is used only when extra power is needed.",
+        "stock": 100,
+        "img": "https://i.ibb.co/f8WzbfB/cars-jack.jpg"
+    },
+    {
+        "name": "Piston",
+        "price": 100,
+        "description": "The battery in a car is a rechargeable. It supplies power (electric energy) to the car. Normally this battery is used to help provide power to start the car and then it is used only when extra power is needed.",
+        "stock": 100,
+        "img": "https://i.ibb.co/mbzzGLd/cars-tire.jpg"
+    },
+    {
+        "name": "A/C Compressor",
+        "price": 100,
+        "description": "The battery in a car is a rechargeable. It supplies power (electric energy) to the car. Normally this battery is used to help provide power to start the car and then it is used only when extra power is needed.",
+        "stock": 100,
+        "img": "https://i.ibb.co/f8WzbfB/cars-jack.jpg"
+    },
+    {
+        "name": "Radiator",
+        "price": 100,
+        "description": "The battery in a car is a rechargeable. It supplies power (electric energy) to the car. Normally this battery is used to help provide power to start the car and then it is used only when extra power is needed.",
+        "stock": 100,
+        "img": "https://i.ibb.co/mbzzGLd/cars-tire.jpg"
+    },
+    {
+        "name": "Engine Fan",
+        "price": 100,
+        "description": "The battery in a car is a rechargeable. It supplies power (electric energy) to the car. Normally this battery is used to help provide power to start the car and then it is used only when extra power is needed.",
+        "stock": 100,
+        "img": "https://i.ibb.co/f8WzbfB/cars-jack.jpg"
+    },
+    {
+        "name": "Clutch",
+        "price": 100,
+        "description": "The battery in a car is a rechargeable. It supplies power (electric energy) to the car. Normally this battery is used to help provide power to start the car and then it is used only when extra power is needed.",
+        "stock": 100,
+        "img": "https://i.ibb.co/mbzzGLd/cars-tire.jpg"
+    },
+    {
+        "name": "Car Jack",
+        "price": 100,
+        "description": "The battery in a car is a rechargeable. It supplies power (electric energy) to the car. Normally this battery is used to help provide power to start the car and then it is used only when extra power is needed.",
+        "stock": 100,
+        "img": "https://i.ibb.co/f8WzbfB/cars-jack.jpg"
+    },
+    {
+        "name": "Spare Tire",
+        "price": 100,
+        "description": "The battery in a car is a rechargeable. It supplies power (electric energy) to the car. Normally this battery is used to help provide power to start the car and then it is used only when extra power is needed.",
+        "stock": 100,
+        "img": "https://i.ibb.co/mbzzGLd/cars-tire.jpg"
+    },
+    {
+        "name": "Shock Absorbers",
+        "price": 100,
+        "description": "The battery in a car is a rechargeable. It supplies power (electric energy) to the car. Normally this battery is used to help provide power to start the car and then it is used only when extra power is needed.",
+        "stock": 100,
+        "img": "https://i.ibb.co/f8WzbfB/cars-jack.jpg"
+    },
+    {
+        "name": "Air Filter",
+        "price": 100,
+        "description": "The battery in a car is a rechargeable. It supplies power (electric energy) to the car. Normally this battery is used to help provide power to start the car and then it is used only when extra power is needed.",
+        "stock": "100",
+        "img": "https://i.ibb.co/mbzzGLd/cars-tire.jpg"
+    }
+]
